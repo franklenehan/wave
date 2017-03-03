@@ -1,0 +1,7 @@
+Assumptions:
+1. To create html form for data entry.
+2. Use JavaScript to control validation and calculations.
+3. Gross monthly income is based on annual salary divided by 12.
+4. Net income is calculated by subtracting the tax fro mthe gross value.
+5. If salary over 37000 a lump sum is to be added to the tax as well as the value per dollar over cut point.
+6. Tax table to be hardcoded in the JavaScript for this exercise but would be added to a reference table for future releases, with the possibility of an admin screen to control the data.
